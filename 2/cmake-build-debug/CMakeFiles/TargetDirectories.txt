@@ -1,0 +1,3 @@
+C:/Users/GRINGO/Documents/pucp/5tociclo/algo/lab2/yo/2/cmake-build-debug/CMakeFiles/2.dir
+C:/Users/GRINGO/Documents/pucp/5tociclo/algo/lab2/yo/2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GRINGO/Documents/pucp/5tociclo/algo/lab2/yo/2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
